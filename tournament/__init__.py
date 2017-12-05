@@ -1,7 +1,4 @@
 #driver.__init__.py
-#
-#Eric P. Nichols
-#Feb 8, 2009
 
 #Runs one othello game by pitting the given two modules against each other.
 #Modules are intended to run linerally, without "thinking" on the other player's clock.
