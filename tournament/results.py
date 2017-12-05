@@ -3,7 +3,7 @@ import os
 import time
 
 #sys.path.append('/u/epnichol/b351/othello/src/')
-path = '/Users/eric/workspace/othello/src/driver/results/'
+path = ''
 sys.path.append(path)
 
 
