@@ -1,9 +1,6 @@
 '''
 DEPRECATED. Here for reference.
 
-Eric P. Nichols
-Original: Feb 8, 2009
-
 Runs one othello game by pitting the given two modules against each other.
 Modules are intended to run serially, without "thinking" on the other player's 
 clock.
