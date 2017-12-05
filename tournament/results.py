@@ -2,7 +2,7 @@ import sys
 import os
 import time
 
-#sys.path.append('/u/epnichol/b351/othello/src/')
+#sys.path.append('')
 path = ''
 sys.path.append(path)
 
