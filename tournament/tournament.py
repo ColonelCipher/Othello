@@ -2,7 +2,7 @@ import sys
 import os
 import time
 
-sys.path.append('/u/epnichol/b351/othello/src/')
+sys.path.append('')
 
 import driver
 
@@ -11,7 +11,7 @@ def run(white_engine_file_num):
     #for p in sys.path: print p
 
     # Load the list of the programs to play as white in this run.
-    path = '/u/epnichol/b351/othello/src/driver/'
+    path = ''
     log_file = path + "tournament.log." + str(white_engine_file_num)
 
     file = open(path + 'white_engines_' + str(white_engine_file_num) + '.txt', 'r')
