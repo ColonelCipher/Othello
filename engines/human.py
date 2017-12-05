@@ -1,12 +1,3 @@
-"""
-Eric P. Nichols
-Feb 8, 2008
-
-This is a human move engine; it simply reads and validates user input
-to get the move to make.
-"""
-
-
 from board import print_moves
 from engines import Engine
 
