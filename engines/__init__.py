@@ -1,8 +1,3 @@
-"""
-Jaimie Murdock
-September 17, 2011
-Abstract class for an Othello game engine.
-"""
 
 class Engine(object):
     """ Abstract class for an Othello game engine. """
