@@ -1,4 +1,7 @@
 '''
+Author: Eric P. Nichols
+Date: Feb 8, 2008.
+
 Board class.
 
 Board data:
@@ -169,7 +172,9 @@ class Board():
                 flips.append((x, y))
             elif self[x][y] == color and len(flips) > 1:
                 return flips
-
+            elif self[x][y] == 0:
+                return []
+            
         return []
 
     @staticmethod
