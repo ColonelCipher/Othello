@@ -1,3 +1,6 @@
 # Othello
-
-//TODO: make shit work
+TODO LIST OF THINGS TODO:
+1: FIX GAME
+2: WRITE SHIT BOT
+3: ?????
+4: PROFIT
