@@ -38,7 +38,7 @@ class Board():
         "Display the board."
         print "   -----------------------"
         for y in range(7,-1,-1):
-            print y+1, "|",    # print the row #
+            print 8-y, "|",    # print the row #
             for x in range(8):
                 piece = self[x][y]    # get the piece to print
                 if piece == -1: print "b ",
