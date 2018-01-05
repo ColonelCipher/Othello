@@ -1,7 +1,4 @@
 '''
-Author: Eric P. Nichols
-Date: Feb 8, 2008.
-
 Board class.
 
 Board data:
